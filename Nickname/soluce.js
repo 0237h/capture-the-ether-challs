@@ -1,0 +1,3 @@
+cte_abi = [{"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"nicknameOf","outputs":[{"internalType":"bytes32","name":"","type":"bytes32"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"bytes32","name":"nickname","type":"bytes32"}],"name":"setNickname","outputs":[],"stateMutability":"nonpayable","type":"function"}]
+cte_contract = new web3.eth.Contract(cte_abi, "0x71c46Ed333C35e4E6c62D32dc7C8F00D125b4fee")
+await cte_contract.methods.setNickname("0x4254433130304b00000000000000000000000000000000000000000000000000").send({"from":player})
