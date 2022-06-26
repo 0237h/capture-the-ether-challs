@@ -19,6 +19,6 @@ I plan to start using [hardhat](https://github.com/NomicFoundation/hardhat) or s
 
 ## Next ?
 
-Currently finishing the last challenge [Token Bank](https://capturetheether.com/challenges/miscellaneous/token-bank/), I plan to leave some of them aside as they require either [bruteforce](https://capturetheether.com/challenges/lotteries/predict-the-future/) or some [better setup](https://capturetheether.com/challenges/math/fifty-years/) than what I use currently (running JS from the Ethernaut website through the web console).
+Finished the last challenge [Token Bank](https://capturetheether.com/challenges/miscellaneous/token-bank/). I am leaving some of the challs aside as they require either [bruteforce](https://capturetheether.com/challenges/lotteries/predict-the-future/) or some [better setup](https://capturetheether.com/challenges/math/fifty-years/) than what I use currently (running JS from the Ethernaut website through the web console to interact with the contracts).
 
-Also I'm aiming at the [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) challs next (which requires a hardhat setup, win-win !).
+Now, I'm aiming at the [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/) challs (which requires a hardhat setup, win-win for me !).
